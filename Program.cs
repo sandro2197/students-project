@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Options;
 using WebApplication3.DataContext;
 using WebApplication3.Model;
 
